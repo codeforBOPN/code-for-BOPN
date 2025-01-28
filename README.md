@@ -40,7 +40,7 @@ all "20"'s are changed to "50"
 ## Additional PFSP Description
 
 Unlike ATSP, PFSP must take into account both the number of jobs and the machines in learning and inference.
-Generalization experiments are possible for work with the same facilities.
+Generalization experiments are possible for work with the same machines.
 
 
 
